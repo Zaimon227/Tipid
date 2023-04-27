@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvPayDueName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/expensename"
+        android:layout_marginLeft="16dp" />
+
+    <EditText
+        android:id="@+id/edtAddDebtName"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/tvPayDueName"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/custom_edittext"
+        android:inputType="text"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp" />
+
+    <TextView
+        android:id="@+id/tvPayTotalDebt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/expensecategory"
+        android:layout_below="@+id/edtAddDebtName"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="16dp" />
+
+    <Spinner
+        android:id="@+id/spnExpenseCategory"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/tvPayTotalDebt"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="16dp" />
+
+    <TextView
+        android:id="@+id/tvPayDueCost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spnExpenseCategory"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="16dp"
+        android:text="@string/expensecost" />
+
+    <EditText
+        android:id="@+id/edtPayDueCost"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/tvPayDueCost"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/custom_edittext"
+        android:inputType="numberDecimal"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp" />
+</RelativeLayout>

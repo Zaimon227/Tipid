@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Tipid</string>
+    <string name="tipid">TIPID</string>
+    <string name="welcome">Welcome!</string>
+    <string name="welcome_sentence">Let\'s start managing your finances</string>
+    <string name="login_sentence">Have an account?</string>
+    <string name="register_sentence">Don\'t have an account?</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="accountname">Account Name:</string>
+    <string name="password">Password:</string>
+    <string name="login_forgotpassword">FORGOT PASSWORD</string>
+    <string name="help">HELP</string>
+    <string name="setup_account">SET UP ACCOUNT</string>
+    <string name="confirmpassword">Confirm Password:</string>
+    <string name="email">Email:</string>
+    <string name="monthlyearnings">Monthly Earnings:</string>
+    <string name="monthlyearningnote">Note: Can be changed after. Estimate will be fine for now</string>
+    <string name="earnings">Earnings</string>
+    <string name="expenses">Expenses</string>
+    <string name="debts">Debts</string>
+    <string name="savings">Savings</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="annual">Annual</string>
+    <string name="remainingearnings">Remaining Earnings</string>
+    <string name="expensename">Expense Name:</string>
+    <string name="expensecategory">Expense Category:</string>
+    <string name="expensecost">Expense Cost:</string>
+    <string name="breakdown">Breakdown</string>
+    <string name="history">History</string>
+    <string name="dues">Dues</string>
+    <string name="pay_dues">Pay Monthly Due/s</string>
+    <string name="slash">/</string>
+    <string name="debts_record">Debts Record</string>
+    <string name="dues_record">Dues Record</string>
+    <string name="debtname">Debt Name:</string>
+    <string name="totaldebt">Total Debt:</string>
+    <string name="pay">Pay</string>
+    <string name="payduename">Monthly Due Name:</string>
+    <string name="payduecost">Monthly Due Cost:</string>
+    <string name="savingfor">Saving goal:</string>
+    <string name="savingprogress">Remaining amount to save:</string>
+    <string name="savingdefaultnumbers">000,000,000,000.00</string>
+    <string name="totalsavings">Total Savings:</string>
+    <string name="savingsgoal">Savings Goal</string>
+    <string name="createsavingsgoal">Create Goal</string>
+    <string name="savingsgoalname">Savings Goal Name:</string>
+    <string name="savingsgoalamount">Savings Goal Amount:</string>
+    <string name="expenseshistory">Daily Expenses History</string>
+    <string name="back">BACK</string>
+    <string name="food">Food/Drinks</string>
+    <string name="hobbies">Hobbies/Sports</string>
+    <string name="school">Education/Work</string>
+    <string name="transportation">Transportation</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="expensesbreakdown">Daily Expenses Breakdown</string>
+    <string name="account">ACCOUNT DETAILS</string>
+    <string name="changepassword">Change Password</string>
+    <string name="oldusernamelabel">Current Username:</string>
+    <string name="newusernamelabel">New Username:</string>
+    <string name="verifyoldpassword">Current Password (Verification):</string>
+    <string name="newpasswordlabel">New Password:</string>
+    <string name="oldmonthlyearningslabel">Current Monthly Earnings:</string>
+    <string name="newmonthlyearnings">New Monthly Earnings:</string>
+    <string name="oldemaillabel">Current Email:</string>
+    <string name="newemail">New Email:</string>
+    <string name="breakdowninfo">Breakdown is expenses recorded from last 30 days</string>
+    <string name="remainingearningsguide">Remaining Earnings for the Month</string>
+    <string name="debtpaymentshistory">Debt Payment History</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="forecastedearnings">Forecast of Earnings</string>
+    <string name="duespaymenthistory">Dues Payment History</string>
+    <string name="update">Update</string>
+    <string name="addbonusmessage">Input amount to adjust into current savings or input for additional earnings such as a bonus earning</string>
+    <string name="updateguide">New accounts need to update to input current savings</string>
+    <string name="fixed">Fixed Dues</string>
+    <string name="fixedduename">Fixed Due Name:</string>
+    <string name="fixedduecost">Fixed Due Cost:</string>
+    <string name="accountsummary">Account Summary</string>
+    <string name="totalexpenses">Total Expenses</string>
+    <string name="totaldues">Total Dues</string>
+    <string name="totaldebtpayment">Total Debt Payments</string>
+    <string name="privacypolicydocument1">Privacy Policy for Tipid</string>
+    <string name="privacypolicydocument2">At Tipid, accessible from tipid.site, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Tipid and how we use it.</string>
+    <string name="privacypolicydocument3">If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</string>
+    <string name="privacypolicydocument4">This Privacy Policy applies only to our online activities and is valid for visitors to our application with regards to the information that they shared and/or collect in Tipid. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Free Privacy Policy Generator.</string>
+    <string name="privacypolicydocument5">Consent</string>
+    <string name="privacypolicydocument6">By using our application, you hereby consent to our Privacy Policy and agree to its terms.</string>
+    <string name="privacypolicydocument7">Information we collect</string>
+    <string name="privacypolicydocument8">The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</string>
+    <string name="privacypolicydocument9">If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</string>
+    <string name="privacypolicydocument10">When you register for an Account, we may ask for your contact information, including items such as name, email address, and monthly earnings.</string>
+    <string name="privacypolicydocument11">How we use your information</string>
+    <string name="privacypolicydocument12">We use the information we collect in various ways, including to:</string>
+    <string name="privacypolicydocument13">Provide, operate, and maintain our admin website and application</string>
+    <string name="privacypolicydocument14">Improve, personalize, and expand our admin website and application</string>
+    <string name="privacypolicydocument15">Understand and analyze how you use our admin website and application</string>
+    <string name="privacypolicydocument16">Develop new products, services, features, and functionality</string>
+    <string name="privacypolicydocument17">Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the admin website, and application</string>
+    <string name="privacypolicydocument18">Send you emails</string>
+    <string name="privacypolicydocument19">Find and prevent fraud</string>
+    <string name="privacypolicydocument20">Consumer Privacy Act of the Philippines (Do Not Sell My Personal Information)</string>
+    <string name="privacypolicydocument21">Under the Consumer Privacy Act, among other rights, consumers have:</string>
+    <string name="privacypolicydocument22">protection against hazards to health and safety;</string>
+    <string name="privacypolicydocument23">protection against deceptive, unfair and unconscionable acts and practices;</string>
+    <string name="privacypolicydocument24">provision of information and education to facilitate sound choice and the proper exercise of rights by the consumer;</string>
+    <string name="privacypolicydocument25">provision of adequate rights and means of redress; and</string>
+    <string name="privacypolicydocument26">involvement of consumer representatives in the formulation of social and economic policies.</string>
+    <string name="privacypolicydocument27">If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</string>
+    <string name="privacypolicydocument28">GDPR Data Protection Rights</string>
+    <string name="privacypolicydocument29">We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</string>
+    <string name="privacypolicydocument30">The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</string>
+    <string name="privacypolicydocument31">The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</string>
+    <string name="privacypolicydocument32">The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</string>
+    <string name="privacypolicydocument33">The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</string>
+    <string name="privacypolicydocument34">The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</string>
+    <string name="privacypolicydocument35">The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</string>
+    <string name="privacypolicydocument36">If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</string>
+    <string name="privacypolicydocument37">Children Information</string>
+    <string name="privacypolicydocument38">Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</string>
+    <string name="privacypolicydocument39">Tipid does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</string>
+
+
+
+
+    <string-array name="DailyExpenseCategories">
+        <item>Food/Drinks</item>
+        <item>Transportation</item>
+        <item>Education/Work</item>
+        <item>Hobbies/Sports</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+</resources>

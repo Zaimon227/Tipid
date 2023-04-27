@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/custom_edittext.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_account_icon.xml" value="0.25833333333333336" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_divider_line.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_divider_line2.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_food_icon.xml" value="0.25833333333333336" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_form_login_background.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_header_login_background.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_header_login_logobackground.xml" value="0.25833333333333336" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_header_maincontent_background.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_hobbies_icon.xml" value="0.25833333333333336" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_label_contentsmall.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_label_mediumbackground.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_label_thinbackground.xml" value="0.21796875" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_miscellaneous_icon.xml" value="0.25833333333333336" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_rectangle_welcome_background.xml" value="0.290625" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_school_icon.xml" value="0.25833333333333336" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/ic_transportation_icon.xml" value="0.25833333333333336" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/drawable/rectangle_background_welcome.xml" value="0.290625" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout-sw720dp/activity_login.xml" value="0.2" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_account.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_breakdown.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_debts.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_dues.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_dueshistory.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_earnings.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_expenses.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_fixeddues.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_help_account.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_history.xml" value="0.22146739130434784" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_paydebt.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_privacypolicy.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/activity_savings.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/add_bonus_dialog.xml" value="0.2439814814814815" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/add_debt_dialog.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/add_expense_dialog.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/add_fixeddue_dialog.xml" value="0.2439814814814815" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/create_goal_dialog.xml" value="0.2115036231884058" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/data_item_debt_record.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/data_item_debtpayments_record.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/data_item_due_record.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/data_item_dueshistory_record.xml" value="0.21920289855072464" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/data_item_expense_record.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/data_item_fixeddue_record.xml" value="0.2439814814814815" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/data_item_history_record.xml" value="0.22192028985507245" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/delete_debt_dialog.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/delete_due_dialog.xml" value="0.2" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/delete_expense_dialog.xml" value="0.20244565217391305" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/delete_message_dialog.xml" value="0.2439814814814815" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/edit_email_dialog.xml" value="0.21739130434782608" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/edit_monthlyearnings_dialog.xml" value="0.21739130434782608" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/edit_password_dialog.xml" value="0.21739130434782608" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/edit_username_dialog.xml" value="0.21739130434782608" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/pay_debt_dialog.xml" value="0.264" />
+        <entry key="..\:/Simon/Programming/Android/Tipid/app/src/main/res/layout/pay_dues_dialog.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

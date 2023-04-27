@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvPayDebtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:text="Debt Name"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvPayPaidAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvPayDebtName"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="15dp"
+        android:text="Pay Debt Amount:"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/edtAddDebtName"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/tvPayPaidAmount"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="16dp"
+        android:inputType="numberDecimal"
+        android:background="@drawable/custom_edittext"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp" />
+
+    <TextView
+        android:id="@+id/tvPayAmountHint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtAddDebtName"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="5dp"
+        android:text="Remaining balance:"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tvPayTotalDebt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvPayAmountHint"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="15dp"
+        android:text="Total Debt:"
+        android:textSize="16sp"/>
+
+</RelativeLayout>
